@@ -365,6 +365,20 @@ html {
     border-color:#C41E3A;
     transform:translateY(-3px);
 }
+.tech-stack {
+    text-align: center;
+    font-size: 14px;
+    color: #fcebeb;
+    font-family: "DM Sans", sans-serif;
+    letter-spacing: 0.5px;
+    opacity: 0.85;
+}
+.project-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px; 
+}
 
 @media all and (max-width: 500px) {
 
