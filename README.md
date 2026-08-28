@@ -21,8 +21,8 @@ A personal portfolio website built with vanilla HTML, CSS, and JavaScript — sh
 Clone the repository:
 
 ```bash
-git clone https://github.com/MariaSalamakha/myPortfolio/.git
-cd your-repo-name
+git clone https://github.com/MariaSalamakha/myPortfolio.git
+cd myPortfolio
 ```
 
 Open `index.html` directly in your browser, or use a local server (e.g. the VS Code "Live Server" extension) for auto-reload while editing.
